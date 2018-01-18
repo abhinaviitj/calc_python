@@ -1,1 +1,2 @@
-# calc_python
+This is a simple calculator which takes a text file as input and performs the operations +,-,* and / per line of the text file and prints the output to the console.
+to run this calculator you need to have python 3 installed in your system and the text file to used as input must be present in the same directory in which the calculator.py file is present. the name of the input file here is input.txt
